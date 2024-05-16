@@ -1,0 +1,14 @@
+D:\STUDY\SU24\TuHoc\LAB02\LAB02\bin\Debug\net8.0\LAB02.exe
+D:\STUDY\SU24\TuHoc\LAB02\LAB02\bin\Debug\net8.0\LAB02.deps.json
+D:\STUDY\SU24\TuHoc\LAB02\LAB02\bin\Debug\net8.0\LAB02.runtimeconfig.json
+D:\STUDY\SU24\TuHoc\LAB02\LAB02\bin\Debug\net8.0\LAB02.dll
+D:\STUDY\SU24\TuHoc\LAB02\LAB02\bin\Debug\net8.0\LAB02.pdb
+D:\STUDY\SU24\TuHoc\LAB02\LAB02\obj\Debug\net8.0\LAB02.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\SU24\TuHoc\LAB02\LAB02\obj\Debug\net8.0\LAB02.AssemblyInfoInputs.cache
+D:\STUDY\SU24\TuHoc\LAB02\LAB02\obj\Debug\net8.0\LAB02.AssemblyInfo.cs
+D:\STUDY\SU24\TuHoc\LAB02\LAB02\obj\Debug\net8.0\LAB02.csproj.CoreCompileInputs.cache
+D:\STUDY\SU24\TuHoc\LAB02\LAB02\obj\Debug\net8.0\LAB02.dll
+D:\STUDY\SU24\TuHoc\LAB02\LAB02\obj\Debug\net8.0\refint\LAB02.dll
+D:\STUDY\SU24\TuHoc\LAB02\LAB02\obj\Debug\net8.0\LAB02.pdb
+D:\STUDY\SU24\TuHoc\LAB02\LAB02\obj\Debug\net8.0\LAB02.genruntimeconfig.cache
+D:\STUDY\SU24\TuHoc\LAB02\LAB02\obj\Debug\net8.0\ref\LAB02.dll
